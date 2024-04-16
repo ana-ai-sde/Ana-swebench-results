@@ -15,7 +15,7 @@ This repository contains the source code, documentation, related artifacts for A
 ## SWE-Bench Performance
 
 Ana has achieved a 13.23% success rate on the SWE-Bench, surpassing the capabilities of traditional AI models in software engineering contexts.
-
+![SWE-Bench Results](https://imgur.com/tO8DSz3.jpg)
 
 ## License
 
