@@ -18,7 +18,7 @@ This repository contains the source code, documentation, related artifacts for A
 
 ### Update  17/05/2024: We are proud to announce our updated score of 15.85% in the SWE-Bench
 
-Ana has achieved a 15.85% success rate on the SWE-Bench, surpassing the capabilities of traditional AI models in software engineering contexts.
+Ana has achieved a 19.07% success rate on the SWE-Bench, surpassing the capabilities of traditional AI models in software engineering contexts.
 
 ![image](https://github.com/user-attachments/assets/bd558e5e-d181-440d-b23b-97dc22c918f6)
 
