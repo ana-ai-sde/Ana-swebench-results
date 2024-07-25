@@ -14,6 +14,8 @@ This repository contains the source code, documentation, related artifacts for A
 
 ## SWE-Bench Performance
 
+### Update  7/8/2024: We are proud to announce our updated score of 19.07% on the SWE-Bench. This is Pass@1
+
 ### Update  17/05/2024: We are proud to announce our updated score of 15.85% in the SWE-Bench
 
 Ana has achieved a 15.85% success rate on the SWE-Bench, surpassing the capabilities of traditional AI models in software engineering contexts.
